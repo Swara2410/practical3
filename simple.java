@@ -1,4 +1,4 @@
-public class simple {
+public class Pawar {
     public static void main(String[] args) {
 
         // Hello World
